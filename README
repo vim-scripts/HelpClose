@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=595
+
+This plugin defines a new little command :HelpAllClose.  When execute this command, all help windows are closed.  You doesn't need to move to help window, when want to close it, any more.
